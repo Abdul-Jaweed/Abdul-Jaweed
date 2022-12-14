@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
 
 
+
 <!-- ![image](https://user-images.githubusercontent.com/114526738/207717375-37cc9690-3bb2-40e7-912a-3adaa358aae9.png) -->
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-jaweed&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-jaweed" /> </p>
 
