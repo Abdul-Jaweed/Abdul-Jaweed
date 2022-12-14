@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Abdul Jaweed</h1>
 <h3 align="center">A Passionate Data Scientist From India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/114526738/207714618-7d088fbb-e455-47e1-9c01-9d887579850d.png)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-jaweed&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-jaweed" /> </p>
 
